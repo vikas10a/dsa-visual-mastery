@@ -1,0 +1,6 @@
+{
+  "name": "DSA Visual Mastery",
+  "description": "Interactive Java DSA learning platform with animated pattern visualizations, synchronized code execution, dry runs, and interview preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
